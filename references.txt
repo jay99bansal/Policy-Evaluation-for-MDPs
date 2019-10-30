@@ -1,0 +1,18 @@
+
+--------------------------- References ----------------------------
+
+
+1.  https://arxiv.org/pdf/1902.02893.pdf
+2.  https://pynative.com/python-range-for-float-numbers/
+3.  https://www.pythoncentral.io/select-random-item-list-tuple-data-structure-python/
+4.  https://www.geeksforgeeks.org/random-numbers-in-python/
+5.  https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.tolist.html
+6.  https://scaron.info/blog/linear-programming-in-python-with-pulp.html
+7.  https://medium.com/@GalarnykMichael/solving-system-of-linear-equations-using-python-645ad1904cec
+8.  https://stackoverflow.com/questions/6789927/is-there-a-python-module-to-solve-linear-equations
+9.  https://stackoverflow.com/questions/44809519/pulp-how-to-specify-the-solvers-accuracy
+10. https://stackoverflow.com/questions/5595425/what-is-the-best-way-to-compare-floats-for-almost-equality-in-python
+11. https://stackoverflow.com/questions/29471260/sum-of-elements-stored-inside-a-tuple
+12. https://stackoverflow.com/questions/51438018/pulp-objective-function-adding-multiple-lpsum-in-a-loop
+13. https://www.geeksforgeeks.org/python-remove-empty-strings-from-list-of-strings/
+14. https://www.101computing.net/python-reading-a-text-file/
